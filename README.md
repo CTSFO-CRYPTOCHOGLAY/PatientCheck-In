@@ -1,9 +1,9 @@
 # Project title: Medical Check-In System 
 
-#Project description: 
+Project description: 
 
-#How to intsall & run project: 
+How to intsall & run project: 
 
-#How to use: 
+How to use: 
 
-#credits: 
+credits: 
