@@ -1,9 +1,11 @@
-# Project title: Medical Check-In System 
+# Medical Check-In System 
 
-Project description: 
+## Project description 
 
-How to intsall & run project: 
+## Installation 
 
-How to use: 
+## Usage
 
-credits: 
+## credits
+
+Develped by Mohammed Ali Choglay.
