@@ -1,11 +1,11 @@
 # Medical Check-In System 
 
-## Project description 
+## Project Description 
 
 ## Installation 
 
 ## Usage
 
-## credits
+## Credits
 
 Develped by Mohammed Ali Choglay.
